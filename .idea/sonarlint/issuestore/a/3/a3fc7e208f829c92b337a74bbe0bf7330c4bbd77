@@ -1,12 +1,8 @@
 
 ‹
-java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8ýÖõßç1
-X	java:S125"<This block of commented-out lines of code should be removed.(ƒó£8Ÿ¬Òç1
-X	java:S125 "<This block of commented-out lines of code should be removed.(Èî÷¡8î¨çÓç1
-N
-java:S1128",Remove this unused import 'hiber.model.Car'.(‘Ù­‹øÿÿÿÿ8á×õßç1
-J
-java:S1128"-Remove this unused import 'hiber.model.User'.(ÎåÖ•8ê×õßç1
-M
-java:S1128
-"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ð×õßç1
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8ÌÆ¾èç1
+G	java:S106"+Replace this use of System.out by a logger.(ÂŒæí8ÜŸöèç1
+L	java:S106"+Replace this use of System.out by a logger.(‘ßâàûÿÿÿÿ8ÝŸöèç1
+L	java:S106"+Replace this use of System.out by a logger.(²¾ïþøÿÿÿÿ8ÝŸöèç1
+L	java:S106 "+Replace this use of System.out by a logger.(©Í­¾ûÿÿÿÿ8ÞŸöèç1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÞŸöèç1

@@ -1,10 +1,6 @@
 
-m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Àçµ8º§àç1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éğâï8Ì«’éç1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8§àç1
-G	java:S106&"+Replace this use of System.out by a logger.(Ø¼¢ƒ8¢§àç1
-T
-java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8—ºàç1
-Q
-java:S1128
-"4Remove this unused import 'javax.persistence.Query'.(¢ğö8˜ºàç1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ú«’éç1
+G	java:S106&"+Replace this use of System.out by a logger.(ù¯ãÊ8á«’éç1
+G	java:S106("+Replace this use of System.out by a logger.(Ø¼¢ƒ8£„”éç1
