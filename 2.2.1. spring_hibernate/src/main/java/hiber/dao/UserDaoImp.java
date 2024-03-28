@@ -29,7 +29,7 @@ public class UserDaoImp implements UserDao {
     }
 
     @Override
-    public void getUserByCar(String carModel, int carSeries) {
+    public User getUserByCar(String carModel, int carSeries) {
         String HQL = "SELECT c.user FROM Car c WHERE c.model=:model AND c.series=:series";
         User user = sessionFactory.getCurrentSession().createQuery(HQL, User.class)
                 .setParameter("model", carModel)
@@ -38,7 +38,6 @@ public class UserDaoImp implements UserDao {
             System.out.println("Пользователь с машиной: " + carModel + " серии: " + carSeries + " не найден");
         }
         System.out.println(user);
+        return user;
     }
-
-
 }
